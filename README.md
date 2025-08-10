@@ -51,8 +51,8 @@ This project focused on configuring administrative settings in osTicket, includi
 
 </p>
 <p>
-<b>Role Configuration</b> <br />
-•  Created the Supreme Admin role to have a user with full, unrestricted access to every feature and setting in osTicket, which is assigned via: Admin Panel → Agents → Roles.
+<b>• Role Configuration</b> <br />
+Created the Supreme Admin role to have a user with full, unrestricted access to every feature and setting in osTicket, which is assigned via: Admin Panel → Agents → Roles.
 <br />
 <p>
  <img width="975" height="385" alt="image" src="https://github.com/user-attachments/assets/b8891284-6e1b-4b83-9062-020afdc21133" />
@@ -60,8 +60,8 @@ This project focused on configuring administrative settings in osTicket, includi
 
 
 <p>
-<b>Department Configuration</b> <br />
-•  Created a department named SysAdmins. The purpose of this department is to segregate visibility between Help Desk, SysAdmins, Support, and Networking between them.
+<b>• Department Configuration</b> <br />
+Created a department named SysAdmins. The purpose of this department is to segregate visibility between Help Desk, SysAdmins, Support, and Networking between them.
 </p>
 <p>
  <img width="719" height="196" alt="image" src="https://github.com/user-attachments/assets/ab6cc5a3-b6eb-4d7e-855a-c840e9755a8c" />
@@ -70,8 +70,8 @@ This project focused on configuring administrative settings in osTicket, includi
 <br />
 
 <p>
-<b>Team Configuration</b> <br />
-•  Created the Online Banking team by grouping agents from multiple departments to enable cross-departmental collaboration on specific tasks or projects that require expertise from different areas, and it is configured under Admin Panel → Agents → Teams then I enabled ticket creation for unregistered users by unchecking the “Require registration” option to make it easier for customers—especially those who don’t have or don’t want to create an account—to quickly submit support requests related to Online Banking, and it is configured via: Admin Panel → Settings → User Settings
+<b>• Team Configuration</b> <br />
+Created the Online Banking team by grouping agents from multiple departments to enable cross-departmental collaboration on specific tasks or projects that require expertise from different areas, and it is configured under Admin Panel → Agents → Teams then I enabled ticket creation for unregistered users by unchecking the “Require registration” option to make it easier for customers—especially those who don’t have or don’t want to create an account—to quickly submit support requests related to Online Banking, and it is configured via: Admin Panel → Settings → User Settings
 
 </p>
 <br />
@@ -81,8 +81,8 @@ This project focused on configuring administrative settings in osTicket, includi
 
 </p>
 <p>
-<b>Agent Management</b> <br />
-•	 Added new agents named Jane Doe from the SysAdmins department, John Doe from the Support department, and myself to build a team of qualified staff members who can receive, manage, and resolve tickets within their respective departments by going under: Admin Panel → Agents → Add New.
+<b>• Agent Management</b> <br />
+Added new agents named Jane Doe from the SysAdmins department, John Doe from the Support department, and myself to build a team of qualified staff members who can receive, manage, and resolve tickets within their respective departments by going under: Admin Panel → Agents → Add New.
 
 </p>
 <br />
@@ -91,8 +91,8 @@ This project focused on configuring administrative settings in osTicket, includi
 
 </p>
 <p>
-<b>User (Customer) Management</b> <br />
-•  Created these two customer user accounts, Karen and Ken, under Agent Panel → Users to represent end users who will submit tickets or requests through the osTicket system.
+<b>• User (Customer) Management</b> <br />
+Created these two customer user accounts, Karen and Ken, under Agent Panel → Users to represent end users who will submit tickets or requests through the osTicket system.
 
 </p>
 <br />
@@ -101,9 +101,9 @@ This project focused on configuring administrative settings in osTicket, includi
  <img width="975" height="407" alt="image" src="https://github.com/user-attachments/assets/18dd6fad-0427-4a73-8325-82b3e9242d70" />
 </p>
 <p>
-<b>Agent Management</b> <br />
+<b>• SLA Configuration</b> <br />
 
-•  Defined these three SLA (Service Level Agreement) levels to establish clear expectations and response priorities for different types of support requests, configured under Admin Panel → Manage → SLA.
+Defined these three SLA (Service Level Agreement) levels to establish clear expectations and response priorities for different types of support requests, configured under Admin Panel → Manage → SLA.
    -	Sev-A: 1-hour grace, 24/7
    -	Sev-B: 4-hour grace, 24/7
    -	Sev-C: 8-hour grace, Business Hours
@@ -114,8 +114,8 @@ This project focused on configuring administrative settings in osTicket, includi
  <img width="975" height="413" alt="image" src="https://github.com/user-attachments/assets/e59580b0-880d-4b74-a8fb-532e28e8e7d1" />
 </p>
 <p>
-<b>Help Topics Setup</b> <br />
-•  Created these help topic categories to organize incoming tickets by common issue types, making it easier to classify, route, and prioritize requests under Admin Panel → Manage → Help Topics.
+<b>• Help Topics Setup</b> <br />
+Created these help topic categories to organize incoming tickets by common issue types, making it easier to classify, route, and prioritize requests under Admin Panel → Manage → Help Topics.
 
 </p>
 <br />
